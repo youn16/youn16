@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+Good day! I am Seyoun Lee!
+
+If you want to contact me, please leave me a message!
+
+### 💫 Experience
+
+MLBC (2020) - *Google*
+
 <!--
 **youn16/youn16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
