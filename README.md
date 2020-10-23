@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 Good day! I am Seyoun Lee!
+Welcome to my GitHub place. My main areas of interest are back-end development in general, economics with data science and software education for the general public.
 
 If you want to contact me, please leave me a message!
 
