@@ -1,13 +1,17 @@
 ### Hi there 👋
 
 Good day! I am Seyoun Lee!
-Welcome to my GitHub place. My main areas of interest are back-end development in general, economics with data science and software education for the general public.
+Welcome to my GitHub place. My main areas of interest are back-end development in general, economics with data science.
+
+I'm getting interested in the front-end these days.
 
 If you want to contact me, please leave me a message!
 
 ### 💫 Experience
 
-MLBC (2020) - *Google*
+RichCare(2018-2020)
+LikeSeal(2020)
+*Google* : MLBC (2020)
 
 <!--
 **youn16/youn16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
