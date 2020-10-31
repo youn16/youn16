@@ -9,9 +9,9 @@ If you want to contact me, please leave me a message!
 
 ### 💫 Experience
 
-RichCare(2018-2020)
-LikeSeal(2020)
-*Google* : MLBC (2020)
+RichCare(2018-2020)<br>
+LikeSeal(2020)<br>
+*Google* : MLBC (2020)<br>
 
 <!--
 **youn16/youn16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
